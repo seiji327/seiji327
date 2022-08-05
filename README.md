@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @seiji327
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Seiji
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 seiji327/seiji327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
